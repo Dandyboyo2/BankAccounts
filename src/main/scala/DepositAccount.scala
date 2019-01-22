@@ -1,3 +1,4 @@
-trait DepositAccount {
 
+trait DepositAccount {
+  def deposit()
 }
