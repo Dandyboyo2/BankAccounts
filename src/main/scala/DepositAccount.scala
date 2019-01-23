@@ -1,4 +1,4 @@
 
 trait DepositAccount {
-  def deposit()
+  def deposit(amount : Double) : DepositAccount
 }
